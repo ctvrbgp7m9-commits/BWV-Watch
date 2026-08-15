@@ -1,0 +1,67 @@
+{
+ "pages": {
+  "Interessenten": {
+   "text": "startseite service interessenten allgemeiner hinweis fuer wohnungsinteressenten: unser bewerbungskontingent ist derzeit leider ausgeschoepft. dies bedeutet, dass sie sich bis auf weiteres nicht um eine wohnung/mitgliedschaft bewerben koennen. ausgenommen sind aktuelle, auf der website ausgeschriebene wohnungsangebote , sofern sie die voraussetzungen fuer eine mitgliedschaft (siehe unten) erfuellen. voraussetzungen fuer eine mitgliedschaft beim bwv die grundsaetzlichen voraussetzungen fuer eine mitgliedschaft beim bwv finden sie unter § 3 (1) unserer satzung. aufnahmen von mitgliedern erfolgen ausschliesslich im zusammenhang mit der zuweisung einer wohnung beim bwv. wie bewerbe ich mich um eine wohnung beim bwv? wegen des derzeitigen aufnahmestopps ist eine bewerbung aktuell nicht moeglich. welche unterlagen und nachweise werden benoetigt? je nach zugehoerigkeit zu den in der satzung unter iii. §3 aufgefuehrten personengruppen benoetigen sie einen entsprechenden nachweis, z. b. bei den gruppen a) und b) eine bestaetigung ihres arbeitgebers fuer ihre unbefristete anstellung. muenchen-modell-wohnungen sogenannte muenchen-modell-wohnungen duerfen nur an bewerber vergeben werden, die eine muenchen-modell-bescheinigung vorlegen koennen. informationen zum antrag finden sie hier . kontaktaufnahme bitte sehen sie von anfragen zur neumitgliedschaft und von wohnungsbewerbungen ab, da beim bwv bis auf weiteres ein aufnahmestopp vorliegt.",
+   "hash": "e33eee1a9e20dbdc",
+   "links": [
+    "https://bwv-muenchen.de",
+    "https://bwv-muenchen.de/aktuelles/wohnungsangebote",
+    "https://bwv-muenchen.de/service",
+    "https://bwv.vb-dev.de/ueber-uns/satzung",
+    "https://stadt.muenchen.de/infos/muenchen-modell-miete.html"
+   ],
+   "forms": 0,
+   "checked": "2026-08-15T19:40:59+00:00"
+  },
+  "Wohnungsangebote": {
+   "text": "startseite aktuelles wohnungsangebote derzeit leider keine angebote",
+   "hash": "4ab76b925f04927e",
+   "links": [
+    "https://bwv-muenchen.de",
+    "https://bwv-muenchen.de/aktuelles"
+   ],
+   "forms": 0,
+   "checked": "2026-08-15T19:40:59+00:00"
+  },
+  "Formulare & Downloads": {
+   "text": "startseite service formulare & downloads in diesem bereich stellen wir ihnen wichtige formulare und dateien zum download bereit hausordnung die hausordnung des bwv muenchen e.g. – in der fassung vom 1. januar 2000 – ist der besseren lesbarkeit halber als pdf-datei abzurufen. download satzung die neueste ausfertigung der satzung des bwv muenchen e.g. wurde am 1. september 2008 beim registergericht muenchen eingetragen. download schufa informationen infoblatt der schufa download",
+   "hash": "09febc6e05487386",
+   "links": [
+    "https://bwv-muenchen.de",
+    "https://bwv-muenchen.de/media/pages/service/formulare-downloads/1f0306fe13-1687854027/bwv_satzung.pdf",
+    "https://bwv-muenchen.de/media/pages/service/formulare-downloads/f96296c2af-1687853847/bwv_ho.pdf",
+    "https://bwv-muenchen.de/media/pages/storage/18bfe30cc1-1701179269/schufa_infoblatt_anlagen_1_2.pdf",
+    "https://bwv-muenchen.de/service"
+   ],
+   "forms": 0,
+   "checked": "2026-08-15T19:40:59+00:00"
+  },
+  "Startseite": {
+   "text": "i lothstrasse 30 u. 32 „gut und sicher wohnen“ – so lautet das motto des bwv muenchen e.g. diesen leitspruch beachten wir seit der gruendung unserer genossenschaft sehr erfolgreich. denn das thema bezahlbares wohnen ist heute – und besonders in muenchen – genauso brisant wie im jahr 1921. deshalb setzen wir uns mit vereinter kraft und gebuendelter kompetenz dafuer ein. erfahren sie mehr ueber unseren bereits mehr als 100-jaehrigen einsatz in muenchen und lernen sie unsere wohnanlagen kennen. beamtenwohnungsverein muenchen e.g. notfall wohnanlage bogenhausen fuerstenried giesing haar haidhausen harlaching lehel maxvorstadt neuhausen nymphenburg parkstadt schwabing pasing schwabing sendling mieterservice wohnanlage bogenhausen fuerstenried giesing haar haidhausen harlaching lehel maxvorstadt neuhausen nymphenburg parkstadt schwabing pasing schwabing sendling interessenten faq vorstand und geschaeftsfuehrung des bwv beamtenwohnungsverein muenchen e.g. fuehrung und verantwortung fuer gemeinsame interessen als vorstand des bwv muenchen e.g. sind wir bestrebt, gemaess den genossen­schaftlichen grund­saetzen der selbst­hilfe, selbst­verwaltung und selbst­verantwortung die gemeinsamen ziele und interessen der mitglieder bestmoeglich umzusetzen. zusammen mit dem aufsichtsrat und der geschaefts­fuehrung tragen wir die verantwortung fuer die wirtschaftliche und rechtliche entwicklung des bwv, um die mitglieder auch in schwierigen zeiten mit attraktivem und bezahlbarem wohnraum zu versorgen. mehr erfahren wohnungsangebote alle angebote 1.731 wohnungen 2.025 mitglieder 102 jahre genossenschaft 24 gewerbeeinheiten immer aktuell informiert - mit der mitgliederzeitschrift des bwv. bwv aktuell - ausgabe 56 ist da! inhalt: grusswort von christian berg, mitglied des vorstands | grundwasser als energiequelle: in den wohnanlagen pasing und haar/waldstrasse sind pumpversuche geplant | weit mehr als ein pflichttermin: die mitgliederversammlung ist der hoehepunkt des genossenschaftlichen jahres | wichtige informationen zum einbruchschutz | personalie: abschied von matthias heller | „es war mir eine freude und eine ehre“: nach 17 jahren einsatz fuer den bwv legt christian berg sein vorstandsamt nieder | danke fuers mitmachen: luftfilter in bad und wc bitte regelmaessig reinigen | erste ansprechpartner vor ort: mit viel erfahrung und einsatzfreude sorgen die hausmeister dafuer, dass in den wohnanlagen alles rund laeuft zu aktuellen ausgabe",
+   "hash": "7b59cfbbd7160bd9",
+   "links": [
+    "https://bwv-muenchen.de/aktuelles/bwv-aktuell",
+    "https://bwv-muenchen.de/aktuelles/wohnungsangebote",
+    "https://bwv-muenchen.de/service/interessenten",
+    "https://bwv-muenchen.de/ueber-uns/vorstand-aufsichtsrat",
+    "https://bwv-muenchen.de/wohnanlagen/bogenhausen",
+    "https://bwv-muenchen.de/wohnanlagen/fuerstenried",
+    "https://bwv-muenchen.de/wohnanlagen/giesing",
+    "https://bwv-muenchen.de/wohnanlagen/haar",
+    "https://bwv-muenchen.de/wohnanlagen/haidhausen",
+    "https://bwv-muenchen.de/wohnanlagen/harlaching",
+    "https://bwv-muenchen.de/wohnanlagen/lehel",
+    "https://bwv-muenchen.de/wohnanlagen/maxvorstadt",
+    "https://bwv-muenchen.de/wohnanlagen/neuhausen",
+    "https://bwv-muenchen.de/wohnanlagen/nymphenburg",
+    "https://bwv-muenchen.de/wohnanlagen/parkstadt-schwabing",
+    "https://bwv-muenchen.de/wohnanlagen/pasing",
+    "https://bwv-muenchen.de/wohnanlagen/schwabing",
+    "https://bwv-muenchen.de/wohnanlagen/sendling"
+   ],
+   "forms": 0,
+   "checked": "2026-08-15T19:40:59+00:00"
+  }
+ },
+ "last_heartbeat": "2026-08-15T19:40:59+00:00"
+}
