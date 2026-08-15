@@ -65,6 +65,7 @@ CLOSED_MARKERS = [
     "bis auf weiteres nicht",
     "aktuell nicht moeglich",
     "nicht moeglich",
+    "keine angebote",
 ]
 
 # Tauchen diese auf, ist mit hoher Wahrscheinlichkeit offen.
